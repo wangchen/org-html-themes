@@ -207,7 +207,7 @@ pre {
     background-color: #F8F8FF;
     border: 1px solid #DEDEDE;
     color: #444444;
-    font-family: monospace;
+    font-family: Source Code Pro, monospace;
     line-height: 1.14em;
     overflow: auto;
     /* overflow-x: auto; */
@@ -218,7 +218,7 @@ code {
     background-color: #F8F8FF;
     border: 1px solid #DEDEDE;
     color: #444444;
-    font-family: monospace;
+    font-family: Source Code Pro, monospace;
     /* font-size: 0.93em; */
     margin: 0px 1px;
     padding: 0px 2px;
